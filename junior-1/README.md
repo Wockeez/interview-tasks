@@ -45,3 +45,9 @@
 - [Openlayers API](https://openlayers.org/en/latest/apidoc/)
 - [Openlayers Примеры](https://openlayers.org/en/latest/examples/)
 - [Swagger API по заданию](https://evo-academy.wckz.dev/apiDocs#/Interview%20-%20Junior%201)
+
+## Результат:
+Кандидат должен предоставить:
+1. Исходный код (Git репозиторий)
+2. README с инструкциями по запуску
+3. Live demo (GitHub Pages/Netlify/Vercel/CodeSandbox) - по возможности
