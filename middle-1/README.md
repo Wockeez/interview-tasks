@@ -49,7 +49,7 @@ interface Task {
 
 Секция **Interview - Middle 1: TODO List**
 
-[Swagger](https://evo-academy.wckz.dev/apiDocs#/Interview%20-%20Middle%201%3A%20TODO%20List)
+[Swagger](https://evo-academy.wckz.dev/api/middle-1)
 
 ### Дополнительные задачи (показать уровень):
 1. **Drag & Drop** для изменения приоритета задач
