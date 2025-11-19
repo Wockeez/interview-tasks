@@ -31,7 +31,7 @@ interface Task {
   title: string;
   description?: string;
   priority: 'low' | 'medium' | 'high';
-  status: 'pending' | 'completed' | 'pause' | 'in_progress;
+  status: 'pending' | 'completed' | 'pause' | 'in_progress';
   createdAt: Date;
   updatedAt: Date;
   dueDate?: Date;
